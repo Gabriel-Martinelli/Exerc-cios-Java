@@ -1,3 +1,4 @@
+package Loops;
 import java.util.Scanner;
 
 public class Ex3_MaiorEMedia {

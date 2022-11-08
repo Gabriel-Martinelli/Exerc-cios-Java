@@ -1,3 +1,4 @@
+package Loops;
 import java.util.Scanner;
 
 public class Ex4_ParEImpar {
